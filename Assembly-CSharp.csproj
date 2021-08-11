@@ -53,10 +53,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\PlayerAnimation.cs" />
      <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
-     <None Include="Assets\Imports\BrokenVector\LowPolyTreePack\README.txt" />
-     <None Include="Assets\Imports\Polygonal Particles\Assets\Shaders\GradientBackgroundShader.shader" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -280,7 +277,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -628,34 +625,34 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/Projetos/Estudo/Unity/Learn/Programming Theory Repo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/Mhattos/Documents/Projetos/Estudo/Unity Learn/Programming Theory Repo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
