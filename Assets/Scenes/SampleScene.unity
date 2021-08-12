@@ -10252,7 +10252,7 @@ GameObject:
   - component: {fileID: 392205814}
   - component: {fileID: 392205813}
   m_Layer: 0
-  m_Name: SpawnFox
+  m_Name: Spawn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10270,9 +10270,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23430fe43d5baa5489603bca04726a2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  foxPrefab: {fileID: 2163288617912862286, guid: 5bf2df7eb69ec3d46992c68b0eb6b4cf, type: 3}
-  range: 50
-  maxSpawn: 10
+  animalPrefab:
+  - {fileID: 2163288617912862286, guid: 5bf2df7eb69ec3d46992c68b0eb6b4cf, type: 3}
+  - {fileID: 3957828224893659514, guid: ced0629dfd27c1748810751c328bd813, type: 3}
+  - {fileID: 7480790181347075608, guid: 92a20aa1f6726f044af5935584be236d, type: 3}
+  - {fileID: 7156150712713804059, guid: e1ff37c3743f44545a435331efcd4cf8, type: 3}
+  - {fileID: 2869906716010043851, guid: 41d50c10d43b0fe4787dcfb9037bc50a, type: 3}
+  - {fileID: 855375100891849807, guid: d5cb282bef87d8c488b6424e7042a3ec, type: 3}
+  - {fileID: 5751584840049242182, guid: 6bbb5bb5b85d2764682608d6e39893ae, type: 3}
+  rangeX: 200
+  rangeZ: 90
+  maxSpawn: 50
 --- !u!4 &392205814
 Transform:
   m_ObjectHideFlags: 0
@@ -10281,7 +10289,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 392205812}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -172.7, y: 0, z: -10.3}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
