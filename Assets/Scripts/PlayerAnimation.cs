@@ -1,18 +1,21 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerAnimation : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private Animator _animator;
+
+    private void Awake()
     {
-        
+        _animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Hidle()
     {
-        
+        _animator.SetFloat("Speed_f",0);
+    }
+
+    public void Walk()
+    {
+        _animator.SetFloat("Speed_f",1);
     }
 }
